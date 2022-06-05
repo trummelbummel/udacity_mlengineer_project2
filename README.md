@@ -1,4 +1,3 @@
-*NOTE:* This file is a template that you can use to create the README for your project. The *TODO* comments below will highlight the information you should be sure to include.
 
 
 # ML Ops ML Engineer Udacity Project 
@@ -11,7 +10,6 @@ After the AutoML run, which we run on an instantiated compute cluster, we select
 ![MLOps Flow](flow_mlops.drawio.png)
 
 ## Key Steps
-*TODO*: Write a short discription of the key steps. Remeber to include all the screenshots required to demonstrate key steps. 
 
 (Note: Please note screenshots sometimes relate to an independent run as I did not redo all the screenshots after once comleting half the project.)
 
@@ -57,7 +55,7 @@ This helps to make steps reusable and also enables versioning of these steps. Co
 
 Could not get audio to be recorded on my system, tried to be vocal about all information in the text.
 
-* 
+* https://youtu.be/Gip_ZueYKvc
 
 ## Standout Suggestions
 
